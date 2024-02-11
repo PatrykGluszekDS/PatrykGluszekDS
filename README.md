@@ -5,7 +5,7 @@ I am a fourth-year Modelling and Data Science student, and I am interested in pr
 Skills: PYTHON / SQL / EXCEL / GIT
 
 - 🌱 I’m currently learning at Lodz University of Technology 
-- 👯 I’m looking to collaborate on while conducting an internship 
+- 👯 I’m looking to collaborate while conducting an internship 
 - 📫 How to reach me: patrykgluszek@yahoo.com 
 
 
